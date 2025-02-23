@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a CDJ-1000mk3 mod written in Rust
+- 🌱 I’m currently learning AI Agents and Rust
+- 💬 Ask me about nodal analysis & emulating analog audio hardware
+- 😄 Pronouns: He/Him
