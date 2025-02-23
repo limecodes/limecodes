@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Yan
 
-A passionate software engineer
-Three flags tell my story: born 🇪🇪, raised 🇨🇦, living 🇺🇦
+A passionate software engineer, born 🇪🇪, raised 🇨🇦, living 🇺🇦
 
 - 🔭 I’m currently working on a CDJ-1000mk3 mod written in Rust
 - 🌱 I’m currently learning AI Agents and Rust
